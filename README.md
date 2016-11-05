@@ -1,4 +1,4 @@
-# trading-card
+# Trading-card
 A page that displays an image of an animal and related information.
 
 ##Getting Started
