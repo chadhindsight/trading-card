@@ -1,0 +1,34 @@
+/* add your CSS here */
+.card {
+    width: 305px;
+    padding: 5px;
+    border: 5px inset #8c8c8c;
+    margin: 0; 
+    box-shadow: 7px 7px 5px #8c8c8c; 
+}
+
+img {
+	padding: 5px;
+}
+
+.cat{
+    font-style: italic;
+}
+
+.info {
+    width: 290px;
+    padding: 4px;
+    border: 2px groove #8c8c8c;
+    margin: 0; 
+}
+
+ul {
+    width: 300px;
+    padding: 5px;
+    margin: 0; 
+    list-style-type:none;
+}
+
+.stats {
+	font-weight: bold;
+}
